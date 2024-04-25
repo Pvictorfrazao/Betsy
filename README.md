@@ -1,5 +1,5 @@
 # Betsy.
-# Projeto de Robô Dançarino pelo Escritório de Engenharia.
+Projeto de Robô Dançarino pelo Escritório de Engenharia.
 
 ## Introdução.
 
