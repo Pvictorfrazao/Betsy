@@ -20,6 +20,7 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enzo-V-S-Moraes)
 
 ### Ana Alice Dias
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nallice)
 
 ### Gabriel Logan Tsuchiya
 
